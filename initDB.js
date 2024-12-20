@@ -58,7 +58,7 @@ db.serialize(() => {
     {
       name: "Spice Kitchen",
       cuisine: "Indian",
-      isVeg: "true",
+      isVeg: true,
       rating: 4.5,
       priceForTwo: 1500,
       location: "MG Road",
